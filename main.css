@@ -45,6 +45,9 @@ a:hover{
 
 main p.indent { text-indent: 2em; }
 main a.date_passed { color: gray; }
+.shadow{
+	text-shadow: 2px 2px #800000;
+ }
 
 /* the styles for the footer */
 footer p {
